@@ -1,0 +1,41 @@
+body {
+    margin:0;
+    padding:0;
+    background-color: gray;
+}
+
+
+p {
+    margin-bottom: 50px; color: black;
+}
+
+label {
+    margin-bottom: 90px 90px;
+    scroll-margin-bottom: 100px;
+    padding: 0%;
+    display: grid;
+    grid-template-columns: 200px 200px 200px 200px 1fr;
+    gap: 24px;
+}
+
+.container {
+    width: 100%;
+    border: 2px solid rgba(0, 0, 255, 0.801);
+    max-width: 600px;
+    margin: 90px auto;
+    background-color: rgb(240, 229, 229);
+    padding: 15px;
+    width: 700px;
+    height: 300px;
+   
+}
+
+label {
+    margin-bottom: 10px;
+
+}
+
+
+.form-group {
+    margin-bottom: 10px;
+}
