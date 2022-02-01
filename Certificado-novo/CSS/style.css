@@ -1,0 +1,36 @@
+body {
+    margin:0;
+    padding:0;
+    background-color: gray;
+
+    width: 100%;
+    border: 2px solid rgba(9, 9, 27, 0.801);
+    max-width: 600px;
+    margin: 90px auto;
+    padding: 50px;
+    width: 700px;
+    height: 300px;
+
+}
+
+
+p {
+    margin-bottom: 80px; color: rgb(245, 235, 235);
+    
+   
+}
+
+button {
+    background-color: rgb(62, 62, 235);
+}
+
+
+
+head {
+    margin: 90px auto;
+    padding: 100px;
+    width: 700px;
+    height: 300px;
+
+   
+}
